@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "5a43d07eb25bf99e7d2d3b364e7e9d5ef7f703eb"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "cs-expert-system-shell": "1.0.1"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "cs-expert-system-shell/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp1.1/cs-expert-system-shell.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cs-expert-system-shell/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KQkvHC5DOnHdTmHEMexUDroxFsADTd9VjlhNkseWqwO5kUxQbw9iZMKXU6tmvtw96pcGGcHJyUhziFA/Ig+H/Q==",
+      "path": "cs-expert-system-shell/1.0.1",
+      "hashPath": "cs-expert-system-shell.1.0.1.nupkg.sha512"
+    }
+  }
+}
